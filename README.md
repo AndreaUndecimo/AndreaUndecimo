@@ -1,4 +1,4 @@
-## Hi there ![hello gif](https://im6.ezgif.com/tmp/ezgif-6-56f994e76012.gif),  I am Andrea!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:100%;" width="30px">,  I am Andrea!
 
 ### About me 🙋‍♂️♂️
 
