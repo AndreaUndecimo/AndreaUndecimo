@@ -10,7 +10,7 @@ Outside of coding, I love spending time outside, going on hikes and swimming in 
 
 ### What I am doing now
 <img alt="illustration of web developer with laptop" src="./assets/polar-14.svg" style="max-width:100%;" width="500" height="340" align="right">
-- 🌱 Currently learning Docker 🐳 and AWS  <img src="./th.jpg" width="32">
+- 🌱 Currently learning Docker <img alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" style="max-width:100%;" height="30"> and AWS  <img alt="AWS" src="http://d3gih7jbfe3jlq.cloudfront.net/AWS-Podcast-Title-Art.jpg" 
 - 📮 You can reach me at: andreaundecimo.au@gmail.com
 - 😄 Pronouns: he/him/his
 - 💬 Ask me about TailwindCSS or developing in ReactJS
