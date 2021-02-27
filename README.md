@@ -2,7 +2,7 @@
 
 ## About me 🙋‍♂️♂️
 
-I am a full-stack developer from Italy 🇮🇹 currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are focused on the user experience. 
+I am a full-stack developer from Italy 🇮🇹 currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. 
 <br/>I am also passionate to teach others how to code. You can find me writing [@Medium](https://andreaundecimo-au.medium.com/) ✍️ or mentoring at [@codebar.io](https://codebar.io/) 👨‍🏫. 
  
 Outside of coding, I love spending time outside, going on hikes and swimming in the ocean. I am also a big food fanatic (I'm Italian, after all 🤷‍♂️), and love travelling and immersing myself in other cultures 🌍.
