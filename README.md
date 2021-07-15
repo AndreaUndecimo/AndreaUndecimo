@@ -2,7 +2,7 @@
 
 ## About me 🙋‍♂️♂️
 
-I am a full-stack developer from Italy 🇮🇹 currently living in Berlin 🇩🇪. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. 
+I am a full-stack developer from Italy 🇮🇹. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. 
  
 Outside of coding, I love spending time outside, going on hikes and swimming in the ocean. I am also a big food fanatic (I'm Italian, after all 🤷‍♂️), and love travelling and immersing myself in other cultures 🌍.
 
